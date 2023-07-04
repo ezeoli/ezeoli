@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi I am Ezequiel Olier , Full stack web Developer from Argentine. 
-In recent years, I have focused on web development as fullstack and have been learning and working with the latest technologies, such as the PERN stack, PostgresQL, React, Node, Express, Javascript, Typescript, and Sequelize.
+Hi, I am Ezequiel Olier, a Full Stack web developer from Argentina. In recent years, I have been focusing on web development, specializing in full stack development. I have been continuously learning and working with the latest technologies, including PostgreSQL, React, Node.js, Express.js, JavaScript, TypeScript, TailwindCSS and Sequelize. These technologies together form the popular PERN Stack (PostgreSQL, Express.js, React, and Node.js)
 
 
 ## 🌐 Socials:
